@@ -11,7 +11,7 @@ body{
 
 #unit-convertor{
     background-color: #1F2937;
-    width: 50%;
+    width: 35%;
     text-align: center;
     border-radius: 10px;
     padding: 5px;
@@ -25,7 +25,7 @@ body{
 }
 
 .heading{
-    color: ghostwhite;
+    color: white;
 }
 
 .user-input{
@@ -35,10 +35,10 @@ body{
     height: 60px;
 
     background-color: #6943FF;
-    border: 2px solid #F4F4F4;
+    border: 2px solid #B295FF;
     border-radius: 5px;
     font-size: 40px;
-    color: #F4F4F4;
+    color: white;
     text-align: center;
     font-weight: bold;
 }
@@ -63,8 +63,8 @@ body{
 }
 
 .convert-button:hover{
-    background-color: black;
-    color: #6943FF;
+    background-color: #1F2937;
+    color: #CCC1FF;
 }
 
 .section-2{
